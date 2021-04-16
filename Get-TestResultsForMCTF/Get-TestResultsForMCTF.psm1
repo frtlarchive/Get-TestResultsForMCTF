@@ -1,3 +1,4 @@
+using namespace System.Collections.Generic
 #where $FreightItems is a collection of FreightItems, #Tests is a collection
 # of regex tests for fields in those FreightItems and CompanyTypeMappings
 # holds mappings for FreightItems fields to unique combinations for companytypes
